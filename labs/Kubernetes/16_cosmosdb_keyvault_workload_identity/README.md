@@ -5,9 +5,6 @@
 
 # Cosmos DB + Azure Key Vault + Azure Workload Identity
 
-## LAB Overview
-  In this lab you will 
-
 ## Lab visualization:
 ![img](./img/s1.png)
 
